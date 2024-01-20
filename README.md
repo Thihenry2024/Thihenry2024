@@ -2,7 +2,7 @@
 ## 36 anos
 ### Araçatuda - SP
 
-
+:computer:
 # **Formação em Engenharia de Software**
 ## **Linguagens Conhecidas**
 ###	1. C
