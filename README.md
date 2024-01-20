@@ -1,6 +1,6 @@
 # **Thiago Henrique Lopes de Matos**
 ## 36 anos
-### Araçatuda - São Paulo
+### Araçatuda - SP
 
 
 # **Formação em Engenharia de Software**
